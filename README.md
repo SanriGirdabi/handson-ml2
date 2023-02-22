@@ -6,8 +6,6 @@ python. It contains the example code and solutions to the exercises in the secon
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51aqYc1QyrL._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
-**Note**: If you are looking for the first edition notebooks, check out [ageron/handson-ml](https://github.com/ageron/handson-ml).
-
 ## Quick Start
 
 ### Want to play with these notebooks online without having to install anything?
